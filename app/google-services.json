@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "13528047732",
+    "project_id": "disney-415ce",
+    "storage_bucket": "disney-415ce.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:13528047732:android:069f0377eb72451106f121",
+        "android_client_info": {
+          "package_name": "ba.sum.fpmoz.disney"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "13528047732-4h40u6odu8o9p0q0iop20qq4j8o38qqc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBA3odY4j0TLbv-6peq4umuMc9yc6gdo0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "13528047732-4h40u6odu8o9p0q0iop20qq4j8o38qqc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
